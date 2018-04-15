@@ -1,5 +1,7 @@
 1)Put git-completion.bash in home directory
 
+for git command completion on pressing tab
+
 2)Put git-prompt.sh in home directory
 
 3)Copy the contents fo bash_profile_course and paste to .bash_profile(for mac)
